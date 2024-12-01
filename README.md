@@ -1,6 +1,3 @@
-Here’s a more creative and engaging README file for your Trijoy app:
-
-```markdown
 # 🎉 Trijoy App 🎮🎬🤖
 
 Welcome to **Trijoy**, your one-stop interactive app for endless fun and creativity! Built with Streamlit, Trijoy brings together three exciting features:
@@ -68,9 +65,3 @@ You’ll need the following libraries:
 
 Trijoy is open-source and available under the **MIT License**. Feel free to contribute, improve, and have fun with it!
 
----
-
-Enjoy playing, watching, and chatting with **Trijoy**! 🎮🎬🤖
-```
-
-This version adds some fun emojis and a more lively, enthusiastic tone to make the README feel more engaging.
